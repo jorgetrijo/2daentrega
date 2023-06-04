@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    line-height: normal;
+}
+body{
+    background-color: rgb(214, 169, 207);
+    color: black;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    color: black;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(22, 17, 22);
+}
+@import "nav";
+@import "icon";
+@import "footer";
+
